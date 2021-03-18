@@ -1,0 +1,39 @@
+/*右*/
+.body .body-content .body-right {
+    width: 980px;
+    height: 995px;
+    /*background-color: #90ffd3;*/
+}
+
+/*右部分*/
+.top-right{
+    display: inline-block;
+    margin: 10px 0px 0px 10px;
+}
+.top-right p{
+    line-height: 35px;
+}
+
+.top-right .h1{
+    color: #0619ff;
+    font-size: 25px;
+    margin: 15px 0px 15px 10px;
+}
+.top-right .h2{
+    color: #0619ff;
+    font-size: 20px;
+    margin: 7px;
+}
+.top-right .h3{
+    color: #181339;
+    font-size: 18px;
+    margin: 4px;
+}
+
+/*左四默认选第一个  none 为不显示*/
+.body .body-content .body-right .show{
+    display: block;
+}
+.body .body-content .body-right .hide{
+    display: none;
+}

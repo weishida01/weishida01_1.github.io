@@ -1,0 +1,26 @@
+/*身体*/
+.body{
+    width: 100%;
+    height: 1010px;
+    padding: 4px 0;
+    background-color: #353c47;
+}
+/*身体内容*/
+.body .body-content{
+    width: 1300px;
+    height: 1005px;
+    background-color: white;
+    margin: auto;
+}
+/*身体右边部分*/
+.body .body-content .body-right{
+    width: 980px;
+    height: 1000px;
+    float: right;
+    margin-right: 3px;
+    margin-top: 3px;
+    background-color: #efefef;
+}
+
+
+

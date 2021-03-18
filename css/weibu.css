@@ -1,0 +1,58 @@
+.foot {
+    width: 100%;
+    height: 100px;
+}
+
+.foot .head1 {
+    width: 100%;
+    height: 60px;
+    background-color: #002147;
+}
+
+.foot .head2 {
+    width: 100%;
+    height: 40px;
+    background-color: #002147;
+}
+
+.foot .head1 .headcontern1 {
+    width: 100%;
+    height: 60px;
+    margin: auto;
+}
+
+.foot .head2 .headcontern2 {
+    width: 100%;
+    height: 40px;
+    margin: auto;
+}
+
+
+.foot .head1 .headcontern1 .wz{
+    width: 100%;
+    height: 60px;
+    margin-left: 25px;
+    text-align: left;
+    float: left;
+}
+.foot .head1 .headcontern1 .wz .wz1{
+    height: 25px;
+    line-height: 25px;
+    margin-top: 5px;
+    text-align: left;
+    color: rgba(238,255,247,0.79);
+}
+.foot .head1 .headcontern1 .wz .wz2{
+    height: 25px;
+    line-height: 25px;
+    color: rgba(238,255,247,0.79);
+    text-align: left;
+}
+.foot .head2 .headcontern2 .wz{
+    width: 100%;
+    height: 40px;
+    margin-left: 20px;
+    line-height: 40px;
+    color: white;
+    text-align: left;
+}
