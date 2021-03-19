@@ -24,7 +24,7 @@
 .header .div1 .div3 {
     height: 90px;
     float: left;
-    margin-left: 130px;
+    margin-left: 100px;
 }
 /*导航 内容 */
 .header .div1 .div3 ul li {
@@ -34,7 +34,7 @@
     height: 90px;
     line-height: 90px;
     /*文字和边框距离*/
-    padding: 0 60px;
+    padding: 0 40px;
     list-style: none;
 }
 /*划过显示*/

@@ -1,28 +1,25 @@
 /*左边部分*/
 .body .body-content .body-left{
-    width: 300px;
-    height: 995px;
+    width: 307px;
+    height: 100%;
     background-color: #fafafa;
     float: left;
     margin-left: 5px;
-    margin-top: 5px;
+    margin-top: 3px;
 }
 /*左边整体样式*/
-.body-left .left{
-    padding: 0px 10px;
-}
 .body-left .left p{
     line-height: 28px;
     font-size: 20px;
-    margin: 10px 10px 15px 10px;
+    margin: 10px 10px 15px 30px;
 }
 .body-left .left img{
-    margin: 15px 0px 15px 25px;
+    margin: 15px 0px 15px 50px;
     width: 200px;
     height: 280px;
 }
 /*左边阿里图标样式*/
 .body-left .left .iconfont{
     font-size: 17px;
-    margin: 10px 10px 15px 10px;
+    margin: 10px 10px 15px 30px;
 }
